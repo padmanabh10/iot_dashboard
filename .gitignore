@@ -22,3 +22,29 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Node & general
+node_modules/
+.env
+
+# Vite cache
+.vite/
+
+# Ignore certificates and keys
+*.key
+*.crt
+*.pem
+*.jks
+config/
+certs/
+
+# Docker
+docker-compose.override.yml
+*.local.yml
+*.env.override
+**/.DS_Store
+
+# Optional: Ignore all Docker build contexts or images (if used)
+**/Dockerfile
+**/docker-compose.yml
+# OS-specific
+Thumbs.db
