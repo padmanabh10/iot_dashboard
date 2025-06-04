@@ -56,7 +56,7 @@ function Home() {
                     {/* Real-time Analytics */}
                     <div className="feature">
                         <img
-                            src="../assets/react.svg"
+                            src="https://raw.githubusercontent.com/padmanabh10/iot_dashboard/refs/heads/master/frontend/src/assets/data-analytics.png?token=GHSAT0AAAAAADCSQKLPA6BMMEQJTEIGXQFQ2B77WLA"
                             className="icon"
                          />
                         <h3>Real-time Analytics</h3>
